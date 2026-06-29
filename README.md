@@ -16,7 +16,7 @@
 
 <img width="1048" height="854" alt="image" src="https://github.com/user-attachments/assets/bffebd4f-5f48-44d9-b06b-ad95c7bff5dc" />
 
-# Опцианально:
+# Опционально:
 
 2. Настроил резервное копирование тома
 
